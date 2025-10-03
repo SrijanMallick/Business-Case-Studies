@@ -19,7 +19,9 @@ Below is a curated list of the case studies available in this repository. This c
 | **The Economics of the iPhone** | Consumer Technology | Product Economics, Pricing Strategy, Market Positioning | `[View Study](path/to/Economics of Product (iPhone Case Study).pdf)` |
 | **How PW Avoided BYJU'S Mistakes** | EdTech | Competitive Analysis, Business Model, Strategic Growth | `[View Study](path/to/How PW avoided BYJU'S mistakes - Case Study.pdf)` |
 | **Meesho's Business Model** | E-commerce / Social Commerce | Market Penetration, Business Model Innovation, Unit Economics| `[View Study](path/to/MEESHO CASE STUDY.pdf)` |
-| *[Your Next Case Study Title]* | *[Industry]* | *[Key Focus Areas]* | *[Link]* |
+| [cite_start]**Mercedes-Benz Strategy Analysis** [cite: 1] | Automotive / Luxury Vehicles | Brand Positioning, Luxury Market Strategy, Product Portfolio | `[View Study](path/to/Mercedes Benz Case Study - Srijan Mallick .pdf)` |
+| [cite_start]**Analysis of the Indian Automobile Sector** [cite: 2] | Automotive / Emerging Markets | Market Analysis, Growth Drivers, Regulatory Impact, Key Players | `[View Study](path/to/Indian Automobile Sector - Case Study by Srijan Mallick .pdf)` |
+| [cite_start]**The Niche Market of Hypercars** [cite: 3] | Automotive / Ultra-Luxury | Niche Marketing, Brand Exclusivity, Engineering & Innovation | `[View Study](path/to/Hyper Car Case Study - by Srijan Mallick .pdf)` |
 
 ---
 
@@ -39,7 +41,6 @@ Through these projects, I have honed and showcased the following analytical skil
 ### ► Contact & Collaboration
 
 I am always open to discussing business strategies, new technologies, and potential collaborations. Please feel free to connect with me.
-
-* **Name:** [Your Name]
-* **LinkedIn:** [Your LinkedIn Profile URL]
-* **Email:** [Your Email Address]
+Name: SRIJAN MALLICK 
+LinkedIn: linkedin.com/in/srijanmallick 
+Email: srijanmallicknita@gmail.com / officialsrijanmallick@gmail.com

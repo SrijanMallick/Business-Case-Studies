@@ -16,7 +16,7 @@ Below is a curated list of the case studies available in this repository. This c
 
 | Case Study Title | Industry / Domain | Key Focus Areas | Link to Study |
 | :--- | :--- | :--- | :--- |
-| **The Economics of the iPhone** | Consumer Technology | Product Economics, Pricing Strategy, Market Positioning | https://github.com/SrijanMallick/Business-Case-Studies/blob/main/Economics%20of%20Product%20(iPhone%20Case%20Study)-%20by%20Srijan%20Mallick%20(2).pdf |
+| **The Economics of the iPhone** | Consumer Technology | Product Economics, Pricing Strategy, Market Positioning |[ https://github.com/SrijanMallick/Business-Case-Studies/blob/main/Economics%20of%20Product%20(iPhone%20Case%20Study)-%20by%20Srijan%20Mallick%20(2).pdf](https://github.com/SrijanMallick/Business-Case-Studies/blob/main/Economics%20of%20Product%20(iPhone%20Case%20Study)-%20by%20Srijan%20Mallick%20(2).pdf) |
 | **How PW Avoided BYJU'S Mistakes** | EdTech | Competitive Analysis, Business Model, Strategic Growth | `[View Study](path/to/How PW avoided BYJU'S mistakes - Case Study.pdf)` |
 | **Meesho's Business Model** | E-commerce / Social Commerce | Market Penetration, Business Model Innovation, Unit Economics| `[View Study](path/to/MEESHO CASE STUDY.pdf)` |
 | **Mercedes-Benz Strategy Analysis** | Automotive / Luxury Vehicles | Brand Positioning, Luxury Market Strategy, Product Portfolio | `[View Study](path/to/Mercedes Benz Case Study - Srijan Mallick .pdf)` |
